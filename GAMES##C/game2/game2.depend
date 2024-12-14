@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730987606 source:c:\users\zed tech\desktop\new folder\game2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
